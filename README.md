@@ -1,6 +1,6 @@
 # MY BSPWM NORD NO GAP RICE
 
-THIS REPO WILL BE DEPRECATED AS I AM GOING TO SWITCH OVER TO DWM SOON
+This repo is deprecated as I have switched over to dwm.
 
 # INSTALLATION
 
